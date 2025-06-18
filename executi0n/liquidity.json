@@ -1,0 +1,6 @@
+{
+  "entryZone": "CHOCH_Sweep",
+  "structure": "Swing_OB",
+  "kill": true,
+  "confirm": "next_liquidity_form"
+}
