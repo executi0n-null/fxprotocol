@@ -1,0 +1,11 @@
+FX EXECUTION MANUAL — CLASSIFIED
+
+Codename: FX-SURG-X11
+Terminal: Ghost-Zero
+Visibility: Null
+Strategy: Flip Trade via Line Chart (H4) Only
+1. BOS/CHOCH Sweep → Swing OB Formed
+2. Wait → Liquidity Swing Confirms
+3. Enter Flip. SL = OB Shadow. TP = Next Opp OB
+
+Presence. Not Prediction.
