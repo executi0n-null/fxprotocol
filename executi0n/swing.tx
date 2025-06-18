@@ -1,0 +1,5 @@
+Trigger: BOS or CHOCH Detected
+State: Liquidity Swing Confirmed
+Action: OB Forms → Flip Initiated
+SL: Below OB Shadow
+TP: Next Opposite Swing OB
